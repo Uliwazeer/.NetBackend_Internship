@@ -1,0 +1,118 @@
+* Task Type >>> Problem Solving 
+* Requirements for task >>(C# V:12, .NET V:8.0, Visual Studio)
+* EFG Hermes Company
+* Under Supervision >>>>>> Eng/ Mohamed Bayoumi
+* Author >>>>>> Ali Wazeer
+*********************************************************************************************
+Question:
+	We have a person named Ahmed who went to the bank on June 4, 2024. He made a 24% certificate for 100,000 EGP for 3 years, with profits distributed twice a year.
+
+	The due date of the money means that he will receive the 100,000 EGP at the end of the period on June 4, 2027.
+
+	This means that he will receive the profits every 6 months, 12,000 EGP, and at the end of the period he will receive 100,000 EGP.
+
+	If all the above information is variables
+
+	Issue Date = Start Date = June 4, 2024
+
+	Maturity Date = End Date = June 4, 2027
+
+	Tenor = number of years = 3 years
+
+	Freq = count of coupons = 2 times a year
+******************************************************************************************
+Requirements :
+	Do you know how to say coupon dates?
+
+	Profit dates?
+
+	And if I told you today is August 7, what day will be the last time you receive profits? And next time, what day will it be?
+
+	I want you to complete this class in this code
+******************************************************************************************
+Code Implementation
+
+using System;
+
+namespace EFG.AMS.BondsEquation.ProtoType.Helpers
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Define the variables
+            DateTime issueDate = new DateTime(2024, 6, 4); // Issue Date = Start Date = 4 June 2024
+            DateTime maturityDate = new DateTime(2027, 6, 4); // Maturity Date = End Date = 4 June 2027
+            double tenor = 3; // Tenor = number of years = 3 years
+            double freq = 2; // Frequency = count of coupons = 2 times a year
+            DateTime todayDate = new DateTime(2024, 8, 7); // Today's date
+
+            // Bond instance
+            Bond bond = new Bond(issueDate, maturityDate, tenor, freq, todayDate);
+
+            // Calculate coupon periods
+            CouponPeriod couponPeriod = MonthlyCouponFrequencyCalculator.CouponPeriodCalculation(bond);
+
+            // Display results
+            Console.WriteLine("Coupon Dates (Profit Dates):");
+            foreach (var date in MonthlyCouponFrequencyCalculator.GetCouponDates(bond))
+            {
+                Console.WriteLine($"- {date:MM/dd/yyyy}");
+            }
+            Console.WriteLine();
+            Console.WriteLine($"Last Profit Date: {couponPeriod.LastCouponDate:MM/dd/yyyy}");
+            Console.WriteLine($"Next Profit Date: {couponPeriod.NextCouponDate:MM/dd/yyyy}");
+        }
+    }
+
+    public static class MonthlyCouponFrequencyCalculator
+    {
+        public static DateTime GetNextCoupon(Bond bond)
+        {
+            DateTime nextCouponDate = bond.IssueDate;
+
+            while (nextCouponDate <= bond.TodayDate && nextCouponDate < bond.MaturityDate)
+            {
+                nextCouponDate = nextCouponDate.AddMonths(6);
+            }
+
+            return nextCouponDate <= bond.MaturityDate ? nextCouponDate : DateTime.MinValue;
+        }
+
+        public static DateTime GetLastCoupon(Bond bond)
+        {
+            DateTime lastCouponDate = bond.IssueDate;
+
+            while (lastCouponDate.AddMonths(6) <= bond.TodayDate && lastCouponDate.AddMonths(6) <= bond.MaturityDate)
+            {
+                lastCouponDate = lastCouponDate.AddMonths(6);
+            }
+
+            return lastCouponDate;
+        }
+
+        public static CouponPeriod CouponPeriodCalculation(Bond bond)
+        {
+            var lastCouponDate = GetLastCoupon(bond);
+            var nextCouponDate = GetNextCoupon(bond);
+
+            return new CouponPeriod
+            {
+                LastCouponDate = lastCouponDate,
+                NextCouponDate = nextCouponDate
+            };
+        }
+***************************************************************************************
+Code Output
+
+Coupon Dates (Profit Dates):
+- 06/04/2024
+- 12/04/2024
+- 06/04/2025
+- 12/04/2025
+- 06/04/2026
+- 12/04/2026
+- 06/04/2027
+
+Last Profit Date: 06/04/2024
+Next Profit Date: 12/04/2024

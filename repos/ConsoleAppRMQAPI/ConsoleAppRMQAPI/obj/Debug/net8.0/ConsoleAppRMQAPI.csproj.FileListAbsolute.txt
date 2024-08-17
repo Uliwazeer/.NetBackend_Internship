@@ -1,0 +1,5 @@
+C:\Users\Ali Wazeer\source\repos\ConsoleAppRMQAPI\ConsoleAppRMQAPI\obj\Debug\net8.0\ConsoleAppRMQAPI.csproj.AssemblyReference.cache
+C:\Users\Ali Wazeer\source\repos\ConsoleAppRMQAPI\ConsoleAppRMQAPI\obj\Debug\net8.0\ConsoleAppRMQAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Wazeer\source\repos\ConsoleAppRMQAPI\ConsoleAppRMQAPI\obj\Debug\net8.0\ConsoleAppRMQAPI.AssemblyInfoInputs.cache
+C:\Users\Ali Wazeer\source\repos\ConsoleAppRMQAPI\ConsoleAppRMQAPI\obj\Debug\net8.0\ConsoleAppRMQAPI.AssemblyInfo.cs
+C:\Users\Ali Wazeer\source\repos\ConsoleAppRMQAPI\ConsoleAppRMQAPI\obj\Debug\net8.0\ConsoleAppRMQAPI.csproj.CoreCompileInputs.cache

@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali Wazeer\\source\\repos\\Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B0A6B-B1DC-4264-A520-72BCD2C41605}|Crud\\Crud.csproj|c:\\users\\ali wazeer\\source\\repos\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40B0A6B-B1DC-4264-A520-72BCD2C41605}|Crud\\Crud.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B0A6B-B1DC-4264-A520-72BCD2C41605}|Crud\\Crud.csproj|c:\\users\\ali wazeer\\source\\repos\\crud\\crud\\caching\\cach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40B0A6B-B1DC-4264-A520-72BCD2C41605}|Crud\\Crud.csproj|solutionrelative:crud\\caching\\cach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B0A6B-B1DC-4264-A520-72BCD2C41605}|Crud\\Crud.csproj|c:\\users\\ali wazeer\\source\\repos\\crud\\crud\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40B0A6B-B1DC-4264-A520-72BCD2C41605}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B0A6B-B1DC-4264-A520-72BCD2C41605}|Crud\\Crud.csproj|c:\\users\\ali wazeer\\source\\repos\\crud\\crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40B0A6B-B1DC-4264-A520-72BCD2C41605}|Crud\\Crud.csproj|solutionrelative:crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40B0A6B-B1DC-4264-A520-72BCD2C41605}|Crud\\Crud.csproj|c:\\users\\ali wazeer\\source\\repos\\crud\\crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B40B0A6B-B1DC-4264-A520-72BCD2C41605}|Crud\\Crud.csproj|solutionrelative:crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Crud.csproj",
+              "DocumentMoniker": "C:\\Users\\Ali Wazeer\\source\\repos\\Crud\\Crud\\Crud.csproj",
+              "RelativeDocumentMoniker": "Crud\\Crud.csproj",
+              "ToolTip": "C:\\Users\\Ali Wazeer\\source\\repos\\Crud\\Crud\\Crud.csproj",
+              "RelativeToolTip": "Crud\\Crud.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-10T00:18:42.164Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Wazeer\\source\\repos\\Crud\\Crud\\Program.cs",
+              "RelativeDocumentMoniker": "Crud\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali Wazeer\\source\\repos\\Crud\\Crud\\Program.cs",
+              "RelativeToolTip": "Crud\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA0wAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:25:27.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cach.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Wazeer\\source\\repos\\Crud\\Crud\\Caching\\Cach.cs",
+              "RelativeDocumentMoniker": "Crud\\Caching\\Cach.cs",
+              "ToolTip": "C:\\Users\\Ali Wazeer\\source\\repos\\Crud\\Crud\\Caching\\Cach.cs",
+              "RelativeToolTip": "Crud\\Caching\\Cach.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:19:16.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Wazeer\\source\\repos\\Crud\\Crud\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Crud\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Ali Wazeer\\source\\repos\\Crud\\Crud\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Crud\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAiwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:13:15.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Wazeer\\source\\repos\\Crud\\Crud\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Crud\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Ali Wazeer\\source\\repos\\Crud\\Crud\\Models\\Employee.cs",
+              "RelativeToolTip": "Crud\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:07:20.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
