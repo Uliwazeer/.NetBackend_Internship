@@ -1,0 +1,68 @@
+Linkedin Password     Y(Ec@k%y+q^MWmgd
+
+			https://roadmap.sh/devops
+
+
+				Ansible Coures
+1-https://www.youtube.com/watch?v=sz9Z9wrCQ4I&list=PLvbyo73L4vfthKUsf0guv2uxrAy255Ht-&index=1
+2-https://www.youtube.com/playlist?list=PLnznAJG6RAI9RguTMpwJOEmltF689hDL6
+3-https://www.youtube.com/watch?v=_3YjzyUBdSI&list=PLv_TZxHG2SSrht1Te-WPgtw1vv3o0hqNP
+
+
+			AWS Cloud Practioner
+1-https://www.youtube.com/watch?v=J8AJ6n6nX54&list=PLv_TZxHG2SSp1qBg2KBjxQlZyPxMrR-6i&pp=iAQB
+
+		AWS Solutions Architect
+1-https://www.youtube.com/watch?v=0KKXjCdVx6s&list=PLv_TZxHG2SSrKoOTgtRviq7ZBAz11PyUx
+
+			
+			Cloud Provider
+https://www.youtube.com/watch?v=R3dNWIjZ14M&list=PLQ5OGqigB8VlnBUhBTVWQ65OxglYiV6LE&pp=iAQB
+
+			Azure
+https://www.youtube.com/watch?v=45OpRgvX7PE&list=PLMYF6NkLrdN-2JR8ZQ41Y53eKb85N9EVQ&pp=iAQB
+
+
+			AWS
+https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze
+https://www.youtube.com/watch?v=idiRn9EIpyo&list=PLpLjvo3GR71u8TgqvTd7iCyy8CTi7rsBf
+
+REDHAT >>>>> RABBITMQ >>>>> OPENSHIFT
+
+
+			Openshift
+https://www.youtube.com/playlist?list=PLH5uDiXcw8tRG7_RJOe7leEvDBfC46Bl_
+https://www.youtube.com/watch?v=3Fp9jjoVkw0&list=PLlI3peB1V-rp-S3n5OjaCtoeU6Ih_BqEr
+			RabbitMQ
+https://www.youtube.com/playlist?list=PLMYF6NkLrdN_YlMP5TRG_60RDpPNL13Bh
+https://www.youtube.com/watch?v=QxiEK2ZMu4k&list=PLZd2bo_SbAm9uJ2J5ryEOZV7ojLwGkATc
+
+REDHAT ADMIN 1
+https://www.youtube.com/watch?v=CvZ7s42cjjU&list=PLLlr6jKKdyK1y3AdznnlN8b1pQz2hQNcD
+
+REDHAT ADMIN 2
+https://www.youtube.com/watch?v=RjsnQkpPcM0&list=PLLlr6jKKdyK3-X4jL8v6ckeRU3Mnejrzq
+
+REDHAT ADMIN 3
+https://www.youtube.com/watch?v=_UFbZ1cFuaE&list=PLLlr6jKKdyK2iRla9WFXN8iM5U-qxF7Ej
+		
+			Cloud Computing
+https://www.youtube.com/watch?v=QVuBbRjMw0Q&list=PLux-0CbBEEvDzbnj3g-iT-YY_uTGVe5F0
+
+			DevOps Course
+https://www.youtube.com/watch?v=9A4SUGzwXho&list=PLUES4tCirZnoRmJV_PrnVoiZn3DBmzetE
+https://www.youtube.com/@JohnyDev/playlists
+https://www.youtube.com/@momagdyy/playlists
+
+github pages
+https://www.youtube.com/watch?v=8hrJ4oN1u_8&list=PLS1QulWo1RIZSuZzYDLtKpa83u9vbKg5-&pp=iAQB
+
+
+redis
+https://www.youtube.com/watch?v=64VG179N4no&list=PLS1QulWo1RIYZZxQdap7Sd0ARKFI-XVsd&pp=iAQB
+
+maven
+https://www.youtube.com/watch?v=HBXxBJ-7LFw&list=PLS1QulWo1RIaaQ3mAU9Nj4rqfwbAv3wIZ&pp=iAQB
+
+azure devops
+https://www.youtube.com/playlist?list=PLfVdvKscEioP7bRkjVMu1PKg5u6acI_uI
